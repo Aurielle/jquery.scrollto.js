@@ -1,0 +1,9 @@
+{
+	"name": "jquery.scrollto.js",
+	"version": "1.0.0",
+	"main": "jquery.scrollto.js",
+	"ignore": ["index.html"],
+	"dependencies": {
+		"jquery": ">=1.9.0"
+	}
+}
